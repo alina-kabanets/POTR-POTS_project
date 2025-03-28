@@ -8,7 +8,7 @@ _POTR POTS is a responsive landing page created as part of my web development po
 
 🔗 [**Live Preview**](https://alina-kabanets.github.io/Potr_Pots/)
 
-## **Design Reference **
+## **Design Reference**
 
 🖼 [**Figma Mockup**](https://www.figma.com/design/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760-281)
 
