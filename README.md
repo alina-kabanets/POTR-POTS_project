@@ -29,6 +29,8 @@ _POTR POTS is a responsive landing page created as part of my web development po
 - 📌 Cross-Browser Compatibility: Ensures consistent functionality across modern browsers.
 
 ## 📸 **Screenshots**
+![preview img](/src/images/readme/Screenshot-1.png)
+![preview img](src/images//readme/Screenshot-2.png)
 
 ## 🤝 **Contributing**
 
@@ -41,6 +43,8 @@ If you have any questions or suggestions, feel free to reach out:
 LinkedIn: https://www.linkedin.com/in/alina-kabanets/
 
 GitHub: https://github.com/alina-kabanets
+
+---
 
 ## 📦 **Getting Started**
 
