@@ -72,19 +72,3 @@ yarn start
 ---
 
 ---
-
-## **Final Checklist**
-
-✅ **No Mate academy instructions left in README**
-
-✅ **Project has a proper description**
-
-✅ **Live demo link is working**
-
-✅ **Technologies are listed**
-
-✅ **Setup instructions are clear**
-
-✅ **GitHub repo is clean and well-organized**
-
-###
